@@ -75,7 +75,7 @@ Beyond just storing conversations, Ember analyzes patterns in your discussions t
 
 ### Settings
 ![Settings](screenshots/settings.png)
-*Manage all your settings*
+*Manage all your settings *
 
 
 
